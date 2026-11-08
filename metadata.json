@@ -1,0 +1,8 @@
+{
+  "name": "SmilaBusTime",
+  "description": "Зручний розклад міських та приміських автобусів Сміли. Навігація, планувальник поїздок, обране та зупинки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

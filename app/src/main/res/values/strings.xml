@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmilaBusTime</string>
+    <string name="tab_routes">Маршрути</string>
+    <string name="tab_planner">Планувальник</string>
+    <string name="tab_info">Інформація</string>
+    <string name="search_hint">Пошук маршруту чи зупинки…</string>
+</resources>
